@@ -1,0 +1,17 @@
+C:\Users\chun_yew_yeap\source\repos\BookingService\BookingServiceTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\chun_yew_yeap\source\repos\BookingService\BookingServiceTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\chun_yew_yeap\source\repos\BookingService\BookingServiceTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\chun_yew_yeap\source\repos\BookingService\BookingServiceTest\bin\Debug\netcoreapp2.1\BookingServiceTest.deps.json
+C:\Users\chun_yew_yeap\source\repos\BookingService\BookingServiceTest\bin\Debug\netcoreapp2.1\BookingServiceTest.runtimeconfig.json
+C:\Users\chun_yew_yeap\source\repos\BookingService\BookingServiceTest\bin\Debug\netcoreapp2.1\BookingServiceTest.runtimeconfig.dev.json
+C:\Users\chun_yew_yeap\source\repos\BookingService\BookingServiceTest\bin\Debug\netcoreapp2.1\BookingServiceTest.dll
+C:\Users\chun_yew_yeap\source\repos\BookingService\BookingServiceTest\bin\Debug\netcoreapp2.1\BookingServiceTest.pdb
+C:\Users\chun_yew_yeap\source\repos\BookingService\BookingServiceTest\obj\Debug\netcoreapp2.1\BookingServiceTest.csprojAssemblyReference.cache
+C:\Users\chun_yew_yeap\source\repos\BookingService\BookingServiceTest\obj\Debug\netcoreapp2.1\BookingServiceTest.csproj.CoreCompileInputs.cache
+C:\Users\chun_yew_yeap\source\repos\BookingService\BookingServiceTest\obj\Debug\netcoreapp2.1\BookingServiceTest.AssemblyInfoInputs.cache
+C:\Users\chun_yew_yeap\source\repos\BookingService\BookingServiceTest\obj\Debug\netcoreapp2.1\BookingServiceTest.AssemblyInfo.cs
+C:\Users\chun_yew_yeap\source\repos\BookingService\BookingServiceTest\obj\Debug\netcoreapp2.1\BookingServiceTest.dll
+C:\Users\chun_yew_yeap\source\repos\BookingService\BookingServiceTest\obj\Debug\netcoreapp2.1\BookingServiceTest.pdb
+C:\Users\chun_yew_yeap\source\repos\BookingService\BookingServiceTest\bin\Debug\netcoreapp2.1\BookingService.dll
+C:\Users\chun_yew_yeap\source\repos\BookingService\BookingServiceTest\bin\Debug\netcoreapp2.1\BookingService.pdb
+C:\Users\chun_yew_yeap\source\repos\BookingService\BookingServiceTest\obj\Debug\netcoreapp2.1\BookingServiceTest.csproj.CopyComplete
